@@ -1,6 +1,6 @@
 # Olá! Eu sou Wiliams 👋
   
-  📚 Atualmente aprendendo Python, R, e Machine Learning
+  📚 Atualmente aprendendo Python para ciência de dados e Machine Learning.
 
 ## Skills 👩‍💻
   * 📄 Excel
