@@ -3,11 +3,11 @@
   📚 Atualmente aprendendo Python para ciência de dados e Machine Learning.
 
 ## Skills 👩‍💻
+  * 🐍 Python
+  * 🗄 SQL
+  * 📊 Power BI
   * 📄 Excel
   * 📄 Google Sheets
-  * 📊 Power BI
-  * 🗄 SQL
-  * 🐍 Python
 
 ## You Found Me
   * [Linkedin](https://www.linkedin.com/in/wiliams-alves/)
