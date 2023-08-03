@@ -17,4 +17,4 @@ Começou seus estudos em data science em março de 2022 e continua se capacitand
 ![Power BI](https://img.shields.io/badge/PowerBI-000?style=for-the-badge&logo=powerbi&logoColor=02e7f7)
 
 ## <font color=#14b1e0>GitHub Stats</font>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alves05&hide_title=true&theme=transparent&bg_color=000&border_color=02e7f7&show_icons=true&hide=issues,prs&icon_color=02e7f7&title_color=02e7f7&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alves05&hide_title=true&theme=transparent&bg_color=000&border_color=02e7f7&show_icons=true&hide&icon_color=02e7f7&title_color=02e7f7&text_color=FFF)
