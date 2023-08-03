@@ -7,7 +7,7 @@ Formado Bacharel em Ciências Contábeis, atuou por 10 anos na área como analis
 Começou seus estudos em data science em março de 2022 e continua se capacitando.
 
 ## <font color=#14b1e0>Contact</font>
-[![Email](https://img.shields.io/badge/email-000?style=for-the-badge&logo=maildotru&logoColor=02e7f7)](wiliamsalves.contato@gmail.com)
+[![Email](https://img.shields.io/badge/email-000?style=for-the-badge&logo=maildotru&logoColor=02e7f7)](mailto:wiliamsalves.contato@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=02e7f7)](https://www.linkedin.com/in/wiliamsalves/)
 
 ## <font color=14b1e0>Skills</font>
