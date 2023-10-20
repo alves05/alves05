@@ -9,6 +9,7 @@ Começou seus estudos em data science em março de 2022 e continua se capacitand
 ## <font color=#14b1e0>Contact</font>
 [![Email](https://img.shields.io/badge/email-000?style=for-the-badge&logo=maildotru&logoColor=02e7f7)](mailto:wiliamsalves.contato@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=02e7f7)](https://www.linkedin.com/in/wiliamsalves/)
+[![PORTFOLIO](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logoColor=02e7f7)](sites.google.com/view/portflio-wiliams-alves/)
 
 ## <font color=14b1e0>Skills</font>
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=02e7f7)
