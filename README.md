@@ -13,8 +13,11 @@ Começou seus estudos em data science em março de 2022 e continua se capacitand
 
 ## <font color=14b1e0>Skills</font>
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=02e7f7)
+![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=02e7f7)
 ![SQL](https://img.shields.io/badge/sql-000?style=for-the-badge&logoColor=02e7f7)
-![Amazon AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws&logoColor=02e7f7)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=02e7f7)
+![Postgres](https://img.shields.io/badge/Postgres-000?style=for-the-badge&logo=postgresql&logoColor=02e7f7)
+![Postgres](https://img.shields.io/badge/sql_server-000?style=for-the-badge&logo=microsoftsqlserver&logoColor=02e7f7)
 ![Power BI](https://img.shields.io/badge/PowerBI-000?style=for-the-badge&logo=powerbi&logoColor=02e7f7)
 
 ## <font color=#14b1e0>GitHub Stats</font>
