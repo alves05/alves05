@@ -2,9 +2,7 @@
 
 
 ## <font color=#14b1e0>About</font>
-Atualmente esta buscando transição de carreira para área de data science.
-Formado Bacharel em Ciências Contábeis, atuou por 10 anos na área como analista contábil e analista fiscal.
-Começou seus estudos em data science em março de 2022 e continua se capacitando.
+Olá, meu nome é Wiliams Alves, sou graduado em Ciências Contábeis pela FACIG. Minhas habilidades técnicas abrangem o uso do Python, SQL e Power BI, com o objetivo de traduzir dados complexos para transforma-los em soluções estratégicas. Utilizando essas ferramentas como aliadas consigo resultados significativos em projetos de ciência de dados.
 
 ## <font color=#14b1e0>Contact</font>
 [![Email](https://img.shields.io/badge/email-000?style=for-the-badge&logo=maildotru&logoColor=02e7f7)](mailto:wiliamsalves.contato@gmail.com)
