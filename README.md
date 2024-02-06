@@ -17,6 +17,11 @@ Olá, meu nome é Wiliams Alves, sou graduado em Ciências Contábeis pela FACIG
 ![Postgres](https://img.shields.io/badge/Postgres-000?style=for-the-badge&logo=postgresql&logoColor=02e7f7)
 ![Postgres](https://img.shields.io/badge/sql_server-000?style=for-the-badge&logo=microsoftsqlserver&logoColor=02e7f7)
 ![Power BI](https://img.shields.io/badge/PowerBI-000?style=for-the-badge&logo=powerbi&logoColor=02e7f7)
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws&logoColor=02e7f7)
+![Spark](https://img.shields.io/badge/Spark-000?style=for-the-badge&logo=apachespark&logoColor=02e7f7)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=02e7f7)
+![scikitlearn](https://img.shields.io/badge/Scikit--learn-000?style=for-the-badge&logo=scikitlearn&logoColor=02e7f7)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow&logoColor=02e7f7)
 
 ## <font color=#14b1e0>GitHub Stats</font>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alves05&hide_title=true&theme=transparent&bg_color=000&border_color=02e7f7&show_icons=true&hide&icon_color=02e7f7&title_color=02e7f7&text_color=FFF)
