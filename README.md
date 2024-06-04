@@ -2,7 +2,7 @@
 
 
 ## <font color=#14b1e0>About</font>
-Olá, meu nome é Wiliams Alves, sou graduado em Ciências Contábeis pela FACIG. Minhas habilidades técnicas abrangem o uso do Python, SQL e Power BI, com o objetivo de traduzir dados complexos para transforma-los em soluções estratégicas.
+Olá, meu nome é Wiliams Alves, estou cursando MBA em Ciências de Dados e Inteligência Artificial pela Faculdade Senac. Minhas habilidades técnicas abrangem o uso do Python, SQL, Power BI e machine learning, com o objetivo de usar os dados em soluções estratégicas.
 
 ## <font color=#14b1e0>Contact</font>
 [![Email](https://img.shields.io/badge/email-000?style=for-the-badge&logo=maildotru&logoColor=02e7f7)](mailto:wiliamsalves.contato@gmail.com)
