@@ -6,7 +6,6 @@ Sou Wiliams Alves cientista de dados apaixonado por transformar dados em insight
 
 ## <font color=#14b1e0>Contact</font>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=02e7f7)](https://www.linkedin.com/in/wiliamsalves/)
-[![PORTFOLIO](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logoColor=02e7f7)](https://sites.google.com/view/portflio-wiliams-alves/)
 
 ## <font color=14b1e0>Skills</font>
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=02e7f7)
