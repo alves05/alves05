@@ -2,7 +2,7 @@
 
 
 ## <font color=#14b1e0>About</font>
-Sou Wiliams Alves cientista de dados apaixonado por transformar dados em insights valiosos. Com formação em inteligência artificial, busco desenvolver modelos preditivos, realizar análise de grandes volumes de dados e implementar soluções de machine learning. Tenho como objetivo solucionar problemas complexos e impulsionar a inovação.
+Cientista de dados, mestrando em Informatica Aplicada na UFRPE, especialista em Ciência de Dados e Inteligência Artificial pelo SENAC. Trabalho com Machine Learning, Deep Learning, Analise de Dados e Séries Temporais.
 
 ## <font color=#14b1e0>Contact</font>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=02e7f7)](https://www.linkedin.com/in/wiliamsalves/)
