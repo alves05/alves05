@@ -2,7 +2,7 @@
 
 
 ## <font color=#14b1e0>About</font>
-Cientista de dados, mestrando em Informatica Aplicada na UFRPE, especialista em Ciência de Dados e Inteligência Artificial pelo SENAC. Trabalho com Machine Learning, Deep Learning, Analise de Dados e Séries Temporais.
+Sou cientista de dados e mestrando em Informatica Aplicada na UFRPE. Tenho especialição em Ciência de Dados e Inteligência Artificial pelo SENAC. Faço trabalhos com Machine Learning, Deep Learning, Analise de Dados e Séries Temporais.
 
 ## <font color=#14b1e0>Contact</font>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=02e7f7)](https://www.linkedin.com/in/wiliamsalves/)
@@ -17,6 +17,7 @@ Cientista de dados, mestrando em Informatica Aplicada na UFRPE, especialista em 
 ![Spark](https://img.shields.io/badge/Spark-000?style=for-the-badge&logo=apachespark&logoColor=02e7f7)
 ![scikitlearn](https://img.shields.io/badge/Scikit--learn-000?style=for-the-badge&logo=scikitlearn&logoColor=02e7f7)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow&logoColor=02e7f7)
+![PyTorch](https://img.shields.io/badge/pytorch-000?style=for-the-badge&logoColor=02e7f7)
 ![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=02e7f7)
 
 ## <font color=#14b1e0>GitHub Stats</font>
