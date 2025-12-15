@@ -2,7 +2,7 @@
 
 
 ## <font color=#14b1e0>About</font>
-Sou cientista de dados e mestrando em Informatica Aplicada na UFRPE. Tenho especialição em Ciência de Dados e Inteligência Artificial pelo SENAC. Faço trabalhos com Machine Learning, Deep Learning, Analise de Dados e Séries Temporais.
+Sou cientista de dados, especialista em ciência de dados e inteligência artificial. Discente do curso de mestrado em Informatica Aplicada na UFRPE. Entre os meus estudos destacam-se Machine Learning, Deep Learning, Analise de Dados e Séries Temporais.
 
 ## <font color=#14b1e0>Contact</font>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=02e7f7)](https://www.linkedin.com/in/wiliamsalves/)
